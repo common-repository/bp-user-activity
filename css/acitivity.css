@@ -1,0 +1,12 @@
+.buddypress-user-activity #activity-stream li.mini .activity-avatar a img.avatar{
+	width: 60px !important;
+	height: 60px !important;
+	margin-left: 0 !important;
+}
+.widget .activity-title{
+   display: none;
+}
+.buddypress-user-activity .time-since{
+	font-size: 10px;
+	font-style: italic;
+}
